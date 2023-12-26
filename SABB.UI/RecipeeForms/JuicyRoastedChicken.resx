@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema 
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Prep Time: 15 mins
+Cook Time: 1 hr 15 mins
+Additional Time: 30 mins
+Total Time: 2 hrs
+Servings: 6
+
+Roasted chicken never fails to impress, but it's surprisingly simple to make! This juicy roasted chicken recipe is perfect for beginner cooks and old pros alike.
+
+How to Roast a Chicken
+Roasting a whole chicken at home is easier than it seems. You'll find a detailed ingredient list and step-by-step instructions in the recipe below, but let's go over the basics:
+
+Roasted Chicken Ingredients
+These are the ingredients you'll need to make the juiciest roast chicken recipe of your life:
+
+Chicken: This recipe starts with a 3-pound whole chicken. If your bird is larger or smaller, you'll need to adjust the recipe.
+Seasonings: This roasted chicken is simply seasoned with salt, black pepper, and onion powder.
+Butter: Butter locks in moisture and gives the seasonings something to adhere to.
+Celery: Stuff the chicken cavity with celery for subtle vegetal flavor. Plus, the celery will release even more moisture as the chicken cooks.
+How to Roast a Chicken Step-By-Step
+Here's a very brief overview of what you can expect when you make homemade roasted chicken:
+
+Season the chicken inside and out.
+Add the butter to the chicken and the pan.
+Stuff the cavity with celery.
+Bake until the chicken is fully roasted.
+How Long to Roast a Chicken
+In an oven preheated to 350 degrees F, a 3-pound whole chicken should be completely cooked in a little more than an hour. You'll know it's done when the meat is no longer pink at the bone, the juices run clear, and an instant read thermometer inserted into the thickest part of the thigh (near the bone) reads 165 degrees F.
+
+Roasted Chicken Tips
+"Roasting a whole chicken at home requires almost no effort and very few ingredients," says culinary producer Nicole McLaughlin (a.k.a. NicoleMcMom). Here are a few of her favorite tips for perfect roasted chicken every time:
+
+The most important thing to know, according to Nicole: "Dry skin is crispy skin." Make sure you get the skin nice and dry with a paper towel before you season the chicken.
+"Don't forget to season the inside as well as the outside," says Nicole, who recommends also getting under the skin with butter for extra flavor.
+If you don't have a roasting pan, that's totally fine. Nicole prefers using a simple baking sheet with a rack on top.
+To prevent the wings from burning during the long roasting process, Nicole tucks them under the bird before sticking the chicken in the oven.
+Roasted Chicken Sides
+Looking for delicious inspiration? Explore our collection of Best Side Dishes for Chicken, No Matter How You Cook It. These are a few of the mouthwatering collections you'll find:
+
+Simple Broccolini
+Garlic Mashed Potatoes
+Roasted Butternut Squash
+How to Store Roasted Chicken
+Allow your leftover roast chicken to cool completely, then store it in an airtight container in the refrigerator for up to four days. Reheat thoroughly in the oven or in the microwave.
+
+Allrecipes Community Tips and Praise
+"The chicken had a very nice flavor and was very juicy and tender," says OT. "The only thing I changed is using two stalks of celery instead of one. I'm definitely going to make this chicken again and I may add garlic and thyme next time."
+
+"The family LOVES it — it's always juicy and tender," raves one Allrecipes community member. "The gravy from the drippings is perfect. It's become part of the regular rotation."
+
+"I made some changes, but this is my favorite way to make chicken," says kitty28806. "I add butter under the skin mixed with seasoning. Comes out perfectly."
+
+Editorial contributions by Corey Williams
+
+Ingredients
+1 (3 pound) whole chicken, giblets removed
+
+salt and black pepper to taste
+
+1 tablespoon onion powder, or to taste
+
+½ cup butter
+
+1 stalk celery, leaves removed
+
+Directions
+Step 1 :
+Preheat the oven to 350 degrees F (175 degrees C).
+Step 2 :
+Place chicken in a roasting pan; season generously inside and out with onion powder, salt, and pepper. Place 3 tablespoons of butter in chicken cavity; arrange dollops of remaining butter on the outside of chicken. Cut celery into 3 or 4 pieces; place in the chicken cavity.
+Step 3 :
+Bake chicken uncovered in the preheated oven until no longer pink at the bone and the juices run clear, about 1 hour and 15 minutes. An instant-read thermometer inserted into the thickest part of the thigh, near the bone, should read 165 degrees F (74 degrees C).
+Step 4 :
+Remove from the oven and baste with drippings. Cover with aluminum foil and allow to rest for about 30 minutes before serving.
+
+Nutrition Facts (per serving)
+423 - Calories
+32g - Fat
+1g - Carbs
+31g - Protein
+
+Bon Appetit</value>
+  </data>
+</root>
